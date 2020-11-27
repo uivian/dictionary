@@ -62,7 +62,7 @@ Para adicionar um novo termo, favor seguir o seguinte padrão:
 
 **Quer contribuir mas não conhece o Git/Github?** Entre em contato! 
 
-**Quer contribuir mas não conhece a linguagem markdown?** Sem problemas! Tente usar um generator markdowns como o [StackEdit](#https://stackedit.io/app#)  
+**Quer contribuir mas não conhece a linguagem markdown?** Sem problemas! Tente usar um generator markdowns como o [StackEdit](https://stackedit.io/app#)  
 
 ## Chega de conversa! Vamos aos estudos
 ![](tenor.gif)
