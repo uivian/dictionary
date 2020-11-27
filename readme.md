@@ -1,11 +1,11 @@
-#Dicionário para iniciantes
+# Dicionário para iniciantes
 
 O objetivo deste projeto é ajudar pessoas que entraram (ou desejam entrar) para a área de tecnologia e têm dificuldades com os termos técnicos/conceitos.
 
 Aqui você poderá encontrar breves explicações, links úteis para estudo, além de poder contribuir com outros termos/conteúdos e sugestões (favor indicá-las no arquivo `suggest.md`).
 
 Sinta-se à vontade e bons estudos!
-##Índice
+## Índice
 
 * [Categorias](#categorias)
 * [Padrão para contribuições](#padro-para-contribuies)
@@ -39,7 +39,7 @@ Sinta-se à vontade e bons estudos!
 
 * [Dúvidas? Entre em contato!](#dvidas-entre-em-contato)
 
-##Categorias
+## Categorias
 
 ![Badge](https://img.shields.io/static/v1?label=categoria&message=pattern&color=9cf&style=flat)
 
@@ -48,7 +48,7 @@ Sinta-se à vontade e bons estudos!
 Para saber mais, veja o site [Shields](https://shields.io/)
 
 
-##Padrão para contribuições
+## Padrão para contribuições
 
 Para adicionar um novo termo, favor seguir o seguinte padrão:
 
@@ -64,10 +64,10 @@ Para adicionar um novo termo, favor seguir o seguinte padrão:
 
 **Quer contribuir mas não conhece a linguagem markdown?** Sem problemas! Tente usar um generator markdowns como o [StackEdit](#https://stackedit.io/app#)  
 
-##Chega de conversa! Vamos aos estudos
+## Chega de conversa! Vamos aos estudos
 ![](tenor.gif)
 
-##A
+## A
 
 
 ### Abstração
@@ -75,22 +75,22 @@ Para adicionar um novo termo, favor seguir o seguinte padrão:
 
 Segundo o dicionário, é uma operação intelectual em que um objeto de reflexão é isolado de fatores que comumente lhe estão relacionados na realidade.
 
-####Links úteis:
+#### Links úteis:
 
 - [O que é abstração em programação? (por Gabriel Sant'ana)](https://medium.com/@gabrielsantana765/o-que-%C3%A9-abstra%C3%A7%C3%A3o-em-programa%C3%A7%C3%A3o-bf8ac2fcd96f.)
 
 - [Programação Orientada a Objetos (por Renato Mattos em Linhadecódigo)](http://www.linhadecodigo.com.br/artigo/506/programacao-orientada-a-objetos.aspx.)
 
 
-##B
-##C
-##D
-##E
-##F
-##G
-##H
+## B
+## C
+## D
+## E
+## F
+## G
+## H
 
-##I
+## I
 
 ### Injeção de dependência (DI)
 ![Badge](https://img.shields.io/static/v1?label=categoria&message=pattern&color=9cf&style=for-the-badge)
@@ -98,52 +98,52 @@ Segundo o dicionário, é uma operação intelectual em que um objeto de reflex�
 É um pattern que garante um baixo acoplamento em uma cadeia de classes. Na prática é uma das formas de se fazer uma inversão de controle.
 Nada mais é do que passar uma classe que será utilizada para uma classe que irá consumi-la. O padrão de injeção de dependência trabalha baseado em abstrações, sejam elas classes abstratas ou interfaces.
 
-####vantagens:
+#### Vantagens:
 - usabilidade;
 - manutenibilidade;
 - testabilidade para aplicações.
 
-####Links úteis:
+#### Links úteis:
 
 - [Padrão de Injeção de Dependência (por Cadu em Devmedia)](https://www.devmedia.com.br/padrao-de-injecao-de-dependencia/18506)
 
 - [Entendendo injeção de dependência (por Kennedy Tedesco em Treinaweb)](https://www.treinaweb.com.br/blog/entendendo-injecao-de-dependencia/#:~:text=Na%20inje%C3%A7%C3%A3o%20de%20depend%C3%AAncia%20voc%C3%AA,atrav%C3%A9s%20de%20um%20m%C3%A9todo%20setter.&text=__construct()%20%C3%A9%20como,por%20exemplo%3A%20public%20UserCommand()%20.)
 
 
-##J
-##K
-##L
-##M
-##N
-##O
-##P
-##Q
-##R
+## J
+## K
+## L
+## M
+## N
+## O
+## P
+## Q
+## R
 
-##S
+## S
 
 ### SOLID 
 ![Badge](https://img.shields.io/static/v1?label=categoria&message=pattern&color=9cf&style=for-the-badge)
 
 SOLID consiste nos 5 princípios da POO (Programação Orientada a Objetos) que ajudam a escrever códigos melhores em qualquer linguagem que tenha o paradigma POO. É acrônimo de: Single responsibility principle(Princípio da Responsabilidade Única). Open/closed principle(Princípio Aberto/Fechado). Liskov substitution principle(Princípio da Substituição de Liskov). Interface segregation principle(Princípio da Segregação da Interface). Dependency inversion principle(Princípio da inversão da dependência).
 
-####Links úteis:
+#### Links úteis:
 
 - [SOLID com PHP (por Diogo Bemfica)](https://diogobemfica.com.br/solid-com-php#:~:text=uma%20interface%20Aves.-,Dependency%20inversion%20principle%20(Princ%C3%ADpio%20da%20invers%C3%A3o%20da%20depend%C3%AAncia),e%20n%C3%A3o%20de%20uma%20implementa%C3%A7%C3%A3o.&text=Isso%20tamb%C3%A9m%20permite%20que%20a,que%20implementem%20a%20interface%20MensagemInterface.)
 
 - [Aplicando SOLID em um CRUD no Laravel (por Victor Hugo Rocha)](https://medium.com/@victorhugorocha/aplicando-solid-em-um-crud-no-laravel-e13fc0255855)
 
 
-##T
-##U
-##V
-##W
-##X
-##Y
-##Z
+## T
+## U
+## V
+## W
+## X
+## Y
+## Z
 
-####Dúvidas? Entre em contato!
+#### Dúvidas? Entre em contato!
 
 Fale comigo se houver dúvidas ou para dar seu feedback!
 
-[LinkedIn - Wivian Couto](#https://www.linkedin.com/in/wivian-c-75b0a3112) 
+- [LinkedIn - Wivian Couto](https://www.linkedin.com/in/wivian-c-75b0a3112) 
