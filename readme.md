@@ -74,12 +74,15 @@ Para adicionar um novo termo, favor seguir o seguinte padrão:
 ![Badge](https://img.shields.io/static/v1?label=categoria&message=conceito&color=ff69b4&style=for-the-badge)
 
 Segundo o dicionário, é uma operação intelectual em que um objeto de reflexão é isolado de fatores que comumente lhe estão relacionados na realidade.
+Em suma, consiste na representação de algo real para a aplicação, sendo um dos pilares da programação orientada a objeto.
 
 #### Links úteis:
 
 - [O que é abstração em programação? (por Gabriel Sant'ana)](https://medium.com/@gabrielsantana765/o-que-%C3%A9-abstra%C3%A7%C3%A3o-em-programa%C3%A7%C3%A3o-bf8ac2fcd96f.)
 
 - [Programação Orientada a Objetos (por Renato Mattos em Linhadecódigo)](http://www.linhadecodigo.com.br/artigo/506/programacao-orientada-a-objetos.aspx.)
+
+- [Os 4 Pilares da programação orientada a objetos (por Henrique em Devmedia)](https://www.devmedia.com.br/os-4-pilares-da-programacao-orientada-a-objetos/9264)
 
 
 ## B
