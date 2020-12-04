@@ -88,6 +88,19 @@ Em suma, consiste na representação de algo real para a aplicação, sendo um d
 ## B
 ## C
 ## D
+
+### Deploy Blue-Green
+
+![Badge](https://img.shields.io/static/v1?label=categoria&message=deploy&color=9fd&style=for-the-badge)
+
+Consiste em manter dois ambientes (idênticos), onde antes de disponibilizar os serviços para o usuário final, é feito testes com o mesmo cenário de produção, sendo a chance de indisponibilidade próxima a zero sua maior vantagem.
+
+#### Links úteis:
+
+- [Entendendo os três tipos de deploy mais comuns (por Red Hat))](https://tableless.com.br/tipos-de-deploy/)
+
+- [O que é uma implantação azul-verde? (por Breno Panzolini em Tableless))](https://tableless.com.br/tipos-de-deploy/)
+
 ## E
 ## F
 ## G
