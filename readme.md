@@ -45,6 +45,8 @@ Sinta-se à vontade e bons estudos!
 
 ![Badge](https://img.shields.io/static/v1?label=categoria&message=conceito&color=ff69b4&style=flat)
 
+![Badge](https://img.shields.io/static/v1?label=categoria&message=deploy&color=9fd&style=flat)
+
 Para saber mais, veja o site [Shields](https://shields.io/)
 
 
@@ -145,6 +147,23 @@ Nada mais é do que passar uma classe que será utilizada para uma classe que ir
 ## N
 ## O
 ## P
+
+### Design Patterns / Padrões de Projeto
+![Badge](https://img.shields.io/static/v1?label=categoria&message=pattern&color=9cf&style=for-the-badge)
+
+Padrões de projeto estão relacionados aos paradigmas de orientação a objetos e são soluções para problemas recorrentes. Dessa forma, além de tornar seu código mais legível à outros programadores, não há necessidade de "recriar a roda" toda vez que se deparar com um problema comum.
+
+#### Vantagens:
+- organização;
+- legibilidade de código;
+- ganho em produtividade.
+
+#### Links úteis:
+
+- [Design Patterns – O que são e quais os benefícios? (por Lutti em Opus Software)](https://www.opus-software.com.br/design-patterns/)
+
+- [Introdução: Design Pattern (por Fernando Rodrigues em Devmedia)](https://www.devmedia.com.br/introducao-design-pattern/18838)
+
 ## Q
 ## R
 
