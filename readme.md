@@ -89,6 +89,18 @@ Em suma, consiste na representação de algo real para a aplicação, sendo um d
 ## C
 ## D
 
+### Deploy 
+
+![Badge](https://img.shields.io/static/v1?label=categoria&message=deploy&color=9fd&style=for-the-badge)
+
+Deploy nada mais é do que disponibilizar para uso (no caso, para o usuário final, geralmente). No geral, implantar e atualizar arquivos de um projeto para um servidor é, basicamente, fazer deploy.
+
+#### Links úteis:
+
+- [Deploy // Dicionário do Programadro (por Código Fonte TV - YouTube))](https://www.youtube.com/watch?v=gJw7l2JKpuQ)
+
+- [Deploy em 4 passos para desenvolvedores iniciantes (por Humberto Rocha em Configr))](https://blog.configr.com/deploy-em-4-passos-para-desenvolvedores-iniciantes/)
+
 ### Deploy Blue-Green
 
 ![Badge](https://img.shields.io/static/v1?label=categoria&message=deploy&color=9fd&style=for-the-badge)
