@@ -164,12 +164,43 @@ Padrões de projeto estão relacionados aos paradigmas de orientação a objetos
 
 - [Introdução: Design Pattern (por Fernando Rodrigues em Devmedia)](https://www.devmedia.com.br/introducao-design-pattern/18838)
 
+
+### POC (PROOF OF CONCEPT) / Prova de Conceito
+![Badge](https://img.shields.io/static/v1?label=categoria&message=conceito&color=ff69b4&style=for-the-badge)
+
+POC é uma maneira de testar uma ideia ou um conceito que você pretende colocar no mercado, basicamente é desenvolver 
+um pré projeto para identificar erros e falhas antes de levar para o mercado.
+
+#### Links úteis:
+
+- [Prova De Conceito: Identifique Falhas Nos Seus Sistemas O Quanto Antes (por Associação Brasileira de Startups)](https://abstartups.com.br/prova-de-conceito/)
+
+- [O que é e por que é importante para softwares (por Sebrase Minas)](https://inovacaosebraeminas.com.br/poc-proof-of-concept/)
+
+- [Guia Prático do que é e Como Fazer uma Prova de Conceito(POC) (por Marcelo Petenate em Escola EDTI)](https://www.escolaedti.com.br/poc-prova-de-conceito)
+
+
+
 ## Q
 ## R
 
 ## S
 
-### SOLID 
+### SaaS / Software como serviço
+![Badge](https://img.shields.io/static/v1?label=categoria&message=conceito&color=ff69b4&style=for-the-badge)
+
+SaaS é o termo que utilizamos para definir um software que é disponibilizado na internet e comercializado como 
+serviço. Esse software é diponibilizado de forma remota para os usuários poderem acessar de qualquer local, também é 
+comercializado por mensalidades onde o cliente consegue contratar e cancelar fácilmente. Exemplos de softwares que 
+são SaaS são: Netflix, Google Drive e Dropbox.
+
+#### Links úteis:
+
+- [O que é SaaS? (por Salesforce)](https://www.salesforce.com/br/saas/)
+
+- [SaaS: O Que É, Como Funciona, Exemplos e Benefícios (por Neil Patel)](https://neilpatel.com/br/blog/saas/)
+
+### SOLID
 ![Badge](https://img.shields.io/static/v1?label=categoria&message=pattern&color=9cf&style=for-the-badge)
 
 SOLID consiste nos 5 princípios da POO (Programação Orientada a Objetos) que ajudam a escrever códigos melhores em qualquer linguagem que tenha o paradigma POO. É acrônimo de: Single responsibility principle(Princípio da Responsabilidade Única). Open/closed principle(Princípio Aberto/Fechado). Liskov substitution principle(Princípio da Substituição de Liskov). Interface segregation principle(Princípio da Segregação da Interface). Dependency inversion principle(Princípio da inversão da dependência).
